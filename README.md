@@ -1,4 +1,4 @@
-# Blob Dynamics simulation
+# Blob Dynamics simulation - 3rd year project Physics Imperial College London
 
 ## Overview
 This project explores turbulence and filament dynamics in the scrape-off layer (SOL) of a Tokamak using numerical simulations. The developed solver is based on drift-reduced plasma fluid equations and aims to model the evolution of turbulent filaments (or blobs) in a simplified 2D geometry. 
